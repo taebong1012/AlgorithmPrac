@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class BJ2667_단지번호붙이기 {	//DFS
+public class BJ2667_단지번호붙이기 {	//DFS 
 	
 	private static int N, areaCnt;
 	private static int[] dr = {-1, 0, 1, 0}, dc = { 0, -1, 0, 1}, aptCnt;
